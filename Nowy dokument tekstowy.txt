@@ -1,0 +1,16 @@
+   1  git clone https://github.com/Dzdzia/Projekt1.git
+    2  git clone https://github.com/Dzdzia/Projekt1.git
+    3  cd Projekt1
+    4  cat index.html
+    5  touch index.html
+    6  git status
+    7  git add .
+    8  git status
+    9  git commit -m
+   10  git commit -m "Dodany index"
+   11  git config --global user.email "piomik98@gmail.com"
+   12  git config --global user.name "Mikolaj"
+   13  git commit -m "Dodany index"
+   14  git push
+   15  man git
+   16  history
